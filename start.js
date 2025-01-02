@@ -6,5 +6,5 @@ var answers = path.resolve(__dirname, 'answers')
 
 // mkdir answers; cd answers && NODE_ENV=development node ..
 mkdirp.sync(answers)
-process.chdir(answers) mw7rmtn8Rt
+process.chdir(answers)
 require('./')
