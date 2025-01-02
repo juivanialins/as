@@ -55,7 +55,7 @@ var outputs = {
 }
 
 var inputs = {
-    actual: createFBO(gl, [512, 512])
+    actual: createFBO(gl, [512, 512]) rtG7FwX3Kl
   , expected: createFBO(gl, [512, 512])
 }
 
