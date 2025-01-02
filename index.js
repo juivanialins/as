@@ -48,7 +48,7 @@ var shaders = {
     , vert: './shaders/triangle.vert'
   })(gl)
 }
- JXV0nsPgrZ
+
 var outputs = {
     actual: createFBO(gl, [512, 512])
   , expected: createFBO(gl, [512, 512])
