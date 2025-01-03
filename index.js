@@ -7,7 +7,7 @@ var compare      = require('gl-compare')
 var createShader = require('glslify')
 var createFBO    = require('gl-fbo')
 var fs           = require('fs')
- P4869WI3u4
+
 var container  = document.getElementById('container')
 var canvas     = container.appendChild(document.createElement('canvas'))
 var readme     = fs.readFileSync(__dirname + '/README.md', 'utf8')
